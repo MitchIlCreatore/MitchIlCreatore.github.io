@@ -9,7 +9,14 @@
     },
     {
       "date": "15/09/2022",
-      "title": "Lezione 2",
+      "title": "Intoduzione alle reti",
+      "text": "2.html",
+      "text_made_by": "Paolino Paperino",
+      "questions": "2_questions.json"
+    },
+    {
+      "date": "18/10/2022",
+      "title": "tipologie di reti",
       "text": "2.html",
       "text_made_by": "Paolino Paperino",
       "questions": "2_questions.json"
